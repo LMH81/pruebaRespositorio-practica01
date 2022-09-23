@@ -21,6 +21,6 @@ rest=num1-num2;
 
 print ("La diferencia de num1 y num2 es: "+ str (rest));
 
-#Comprobando git hub remoto3, para comprobar error solventado
+#Comprobando git hub remoto3, para comprobar error solventado..
 
 
